@@ -1,0 +1,6 @@
+c:\users\manifest\documents\visual studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\bin\Debug\FizzBuzzV9.exe.config
+c:\users\manifest\documents\visual studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\bin\Debug\FizzBuzzV9.exe
+c:\users\manifest\documents\visual studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\bin\Debug\FizzBuzzV9.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\obj\Debug\FizzBuzzV9.exe
+c:\users\manifest\documents\visual studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\obj\Debug\FizzBuzzV9.pdb
+C:\Users\Manifest\Documents\Visual Studio 2013\Projects\FizzBuzzV9\FizzBuzzV9\obj\Debug\FizzBuzzV9.csprojResolveAssemblyReference.cache
